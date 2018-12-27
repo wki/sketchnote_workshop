@@ -8,13 +8,26 @@
 
 3) die technischen Grundlagen mit viel Zeichenübungs-Zeit für jeden. Vor allem bei den Symbolen, Rahmen und Text
 
+  - Alphabet: Punkte, Linien, Dreiecke, Vierecke, Kreise
+  - Symbole
+  - Container, Rahmen, Pfeile
+  - Text
+  - evtl. Gliederungspunkte
+  - Farbe, Schatten
+
 4) Eine erste Übung: ein youtube Video wird nach gesketcht
 
 5) Figuren (Kegel, Stern und Block)
 
+  - Kegelmännchen
+  - Sternfiguren
+  - Blockfiguren
+
 6) Emotionen (die Matrix von Austin Kleon)
 
 7) Übung: noch ein youtube Video wird gesketcht
+
+x) noch unterzubringen: Gliederung, Strukturierung
 
 
 ## Zusätzliche Ideen
