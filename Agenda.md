@@ -40,6 +40,7 @@ Mittagspause: 13:00 - 14:00
   - Farbe
 * Abgrenzung zu anderen Disziplinen
   - Graphic Recording
+  - Lettering
   - Protokoll
 
 * Spiel: Graphic Jam
@@ -77,6 +78,8 @@ Mittagspause: 13:00 - 14:00
 * Auf Schatten-Richtung achten (immer gleich innerhalb Zeichnung)
 * Sparsam mit Farbe umgehen
 
+* Hinweis: Umgang mit Fehlern
+
 
 ## Rahmen
 
@@ -89,6 +92,9 @@ Mittagspause: 13:00 - 14:00
 * Schatten und Farbe
 * Kombination mit Symbolen (z.B. Lampe als Idee)
 * sich überschneidende Rahmen (z.B. Post-It, Blockblätter)
+
+* Struktur, Layout und Aufbau
+
 
 ## Mittagspause
 
