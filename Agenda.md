@@ -6,9 +6,9 @@ Mittagspause: 13:00 - 14:00
 ## Vorstellungsrunde
 
 * Beginn: 09:00
-* Dauer: 15m
-* Zweck: Dozenten und Teilnehmer stellen sich vor,
-  Teilnehmer äußern ihre Wünsche an das Lehrziel
+* Dauer: 15m -- evt. 30m?
+* Jeder malt wahlweise wo er herkommt, sein Hobby, seinen Beruf oder seinen Berufswunsch als Kind
+  anschließend werden die Bilder kurz hochgehoben und jeder erklärt was sich darauf befindet
 
 * Hinweis auf Materialien
   - optimal: gestrichenes Papier ab 120g, besser 160g
@@ -22,7 +22,7 @@ Mittagspause: 13:00 - 14:00
 
 * Beginn: 09:15
 * Dauer: 45m
-* Zweck: Hinführung
+* Zweck: Hinführung -- Vortrag dann kurze Mal-Session
 
 * Ursprung: Höhlenmalerei
 * Inhalt:
@@ -62,7 +62,7 @@ Mittagspause: 13:00 - 14:00
 * Vierecke (Quadrat, Rechteck, Parallelogramm, überschneidend, Linien einzeln!)
 * Kreise und Ellipsen
 
-* Jeder probiert bei jedem einzelnen Schritt mit!
+* Jeder probiert bei jedem einzelnen Schritt mit! Dafür lassen wir uns viel Zeit!
 
 
 ## Symbole
@@ -98,10 +98,21 @@ Mittagspause: 13:00 - 14:00
 
 ## Mittagspause
 
-## Text
+
+## Eigene Symbole entwickeln
 
 * Beginn: 14:00
-* Dauer: 45m
+* Dauer: 30m
+* Zweck: Vertiefung des Gelernten. Kombination aus bisherigen Dingen
+
+* Rahmen + Symbol
+* zwei Symbole als "neuen" Begriff
+
+
+## Text
+
+* Beginn: 14:30
+* Dauer: 30m
 * Zweck: gleichmäßige von Handschrift abweichende Schrift zeichnen
 
 * Grundline, Mittellinie, Versalline + Unterlänge, Oberlänge
@@ -113,7 +124,7 @@ Mittagspause: 13:00 - 14:00
 
 ## Übung: Video sketchen
 
-* Beginn: 14:45
+* Beginn: 15:00
 * Dauer: 15m Zeichnen, 15m Nachbesprechung
 * Zweck: erste Erfahrung sammeln, gemeinsamer Austausch
 
@@ -124,8 +135,8 @@ Mittagspause: 13:00 - 14:00
 
 ## Figuren
 
-* Beginn: 15:15
-* Dauer: 60m
+* Beginn: 15:30
+* Dauer: 45m
 * Zweck: verschiedene Figuren-Typen kennenlernen und zeichnen
 
 * Kegelmännchen
