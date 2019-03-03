@@ -34,20 +34,42 @@ Mittagspause: 13:00 - 14:00
   - Idee
   - Abstraktion
 * Zweck: individuelle Erinnering / 75% der Empfingung ist SEHEN
-* Reihenfolge
-  - outline
-  - graue Schatten
-  - Farbe
 * Abgrenzung zu anderen Disziplinen
   - Graphic Recording
   - Lettering
   - Protokoll
+* Reihenfolge
+  - outline
+  - graue Schatten
+  - Farbe
 
 * Spiel: Graphic Jam
   3 Runden, 3 Begriffe, 30->20->10 Sekunden Zeit
   danach auf Flipchart legen und gemeinsam besprechen
   Feststellung: wir malen alle zu kompliziert
   Aber: viele Sysmbole lassen sich auf Wesentliches reduzieren
+
+  Idee für Begriffe:
+  - Runde 1 (einfache Substantive im Singualar, 30s Zeit):
+    Auswahl aus:
+    + Warenkorb
+    + Laptop
+    + Kochtopf
+    + Fußabdruck
+    + Blume
+  - Runde 2 (schwierigere Substantive, 20s Zeit):
+    Auswahl aus: 
+    + Schlotfeger
+    + Reisekoffer
+    + Sonnenuntergang
+    + Vater und Sohn
+    + Umsatz Prognose
+  - Runde 3 (Redewendungen, 10s Zeit)
+    + Der Apfel fällt nicht weit vom Stamm
+    + Wer anderen eine Grube gräbt...
+    + Da beißt die Maus keinen Faden ab
+    + Da ist der Bär los
+    + Da lachen ja die Hühner
 
 
 ## Visuelles Alphabet
