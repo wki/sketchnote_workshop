@@ -70,7 +70,22 @@ Mittagspause: 13:00 - 14:00
     + Da beißt die Maus keinen Faden ab
     + Da ist der Bär los
     + Da lachen ja die Hühner
-
+  - Alternativ alle 3 Runden gleich, aber Zeit 30-20-10 Sekunden
+    + Huhn
+    + Fahrrad
+    + Schlotfeger
+    + Telefon
+    + Brief
+    + Papierkorb
+    + Schreibtisch
+    + Pinwand
+    + Fallschirm
+    + Teetasse
+    + Besteck
+    + Gießkanne
+    + Spiegelei
+    + Fotoapparat
+    + Maßstab
 
 ## Visuelles Alphabet
 
