@@ -3,6 +3,7 @@
 Uhrzeit 09:00 - 17:00
 Mittagspause: 13:00 - 14:00
 
+
 ## Vorstellungsrunde
 
 * Beginn: 09:00
@@ -33,7 +34,7 @@ Mittagspause: 13:00 - 14:00
   - Individueller Stil
   - Idee
   - Abstraktion
-* Zweck: individuelle Erinnering / 75% der Empfingung ist SEHEN
+* Zweck: individuelle Erinnerung / 75% der Empfindung ist SEHEN
 * Abgrenzung zu anderen Disziplinen
   - Graphic Recording
   - Lettering
@@ -47,29 +48,12 @@ Mittagspause: 13:00 - 14:00
   3 Runden, 3 Begriffe, 30->20->10 Sekunden Zeit
   danach auf Flipchart legen und gemeinsam besprechen
   Feststellung: wir malen alle zu kompliziert
-  Aber: viele Sysmbole lassen sich auf Wesentliches reduzieren
+  Aber: viele Symbole lassen sich auf Wesentliches reduzieren
 
   Idee für Begriffe:
-  - Runde 1 (einfache Substantive im Singualar, 30s Zeit):
-    Auswahl aus:
-    + Warenkorb
-    + Laptop
-    + Kochtopf
-    + Fußabdruck
-    + Blume
-  - Runde 2 (schwierigere Substantive, 20s Zeit):
-    Auswahl aus: 
-    + Schlotfeger
-    + Reisekoffer
-    + Sonnenuntergang
-    + Vater und Sohn
-    + Umsatz Prognose
-  - Runde 3 (Redewendungen, 10s Zeit)
-    + Der Apfel fällt nicht weit vom Stamm
-    + Wer anderen eine Grube gräbt...
-    + Da beißt die Maus keinen Faden ab
-    + Da ist der Bär los
-    + Da lachen ja die Hühner
+  - Runde 1 (30s Zeit):
+  - Runde 2 (20s Zeit):
+  - Runde 3 (10s Zeit)
   - Alternativ alle 3 Runden gleich, aber Zeit 30-20-10 Sekunden
     + Huhn
     + Fahrrad
@@ -86,6 +70,10 @@ Mittagspause: 13:00 - 14:00
     + Spiegelei
     + Fotoapparat
     + Maßstab
+    + Warenkorb
+    + Blume
+    + Fußabdruck
+
 
 ## Visuelles Alphabet
 
